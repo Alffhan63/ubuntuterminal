@@ -1,0 +1,808 @@
+{
+  "ip": "182.1.108.57",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "114.125.214.232",
+  "city": "Makassar",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-5.1520,119.4370",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "103.10.66.4",
+  "hostname": "subs07-103-10-66-4.three.co.id",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS45727 Hutchison CP Telecommunications, PT"
+}
+
+{
+  "ip": "114.125.72.81",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "114.125.166.193",
+  "city": "Makassar",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-5.1520,119.4370",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "120.188.78.230",
+  "hostname": "120-188-78-230.resources.indosat.com",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS4761 INDOSAT Internet Network Provider"
+}
+
+{
+  "ip": "114.124.180.43",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "114.142.172.48",
+  "hostname": "subs20-114-142-172-48.three.co.id",
+  "city": "Bandung",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.9217,107.6070",
+  "org": "AS45727 Hutchison CP Telecommunications, PT"
+}
+
+{
+  "ip": "180.241.44.53",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS17974 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "182.1.216.46",
+  "city": "Makassar",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-5.1520,119.4370",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "182.1.185.36",
+  "city": "",
+  "region": "",
+  "country": "ID",
+  "loc": "-6.1750,106.8290",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "36.73.175.226",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "115.178.254.151",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS18004 PT WIRELESS INDONESIA ( WIN )"
+}
+
+{
+  "ip": "125.160.64.50",
+  "hostname": "50.subnet125-160-64.speedy.telkom.net.id",
+  "city": "Bontang",
+  "region": "East Kalimantan",
+  "country": "ID",
+  "loc": "0.1324,117.4850",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "114.5.213.220",
+  "hostname": "114-5-213-220.resources.indosat.com",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS4761 INDOSAT Internet Network Provider"
+}
+
+{
+  "ip": "116.206.9.1",
+  "hostname": "subs25-116-206-9-1.three.co.id",
+  "city": "Depok",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.3433,106.4990",
+  "org": "AS45727 Hutchison CP Telecommunications, PT"
+}
+
+{
+  "ip": "114.125.92.116",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "36.79.134.217",
+  "city": "Watampone",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-4.5386,120.3280",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "182.1.2.159",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "114.125.185.64",
+  "city": "Makassar",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-5.1520,119.4370",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "110.137.219.73",
+  "hostname": "73.subnet110-137-219.speedy.telkom.net.id",
+  "city": "Samarinda",
+  "region": "East Kalimantan",
+  "country": "ID",
+  "loc": "-0.4917,117.1460",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "182.1.122.228",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "180.241.44.195",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS17974 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "120.188.34.26",
+  "hostname": "120-188-34-26.resources.indosat.com",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS4761 INDOSAT Internet Network Provider"
+}
+
+{
+  "ip": "114.125.92.172",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "36.71.72.109",
+  "city": "Malang",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.9797,112.6300",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "180.214.233.126",
+  "hostname": "subs03-180-214-233-126.three.co.id",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS45727 Hutchison CP Telecommunications, PT"
+}
+
+{
+  "ip": "115.178.222.53",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS18004 PT WIRELESS INDONESIA ( WIN )"
+}
+
+{
+  "ip": "110.138.195.38",
+  "hostname": "38.subnet110-138-195.speedy.telkom.net.id",
+  "city": "Pare",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.6823,111.8870",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "36.90.33.190",
+  "city": "Pekanbaru",
+  "region": "Riau",
+  "country": "ID",
+  "loc": "1.0128,100.5040",
+  "org": "AS17974 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "182.1.44.53",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "180.253.141.138",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "103.105.24.14",
+  "city": "Gorontalo",
+  "region": "Sulawesi Utara",
+  "country": "ID",
+  "loc": "0.5412,123.0600",
+  "org": "AS45727 Hutchison CP Telecommunications, PT"
+}
+
+{
+  "ip": "223.255.229.30",
+  "hostname": "subs13-223-255-229-30.three.co.id",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS45727 Hutchison CP Telecommunications, PT"
+}
+
+{
+  "ip": "114.125.39.38",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "158.140.187.241",
+  "hostname": "host-158.140.187-241.myrepublic.co.id",
+  "city": "Jakarta",
+  "region": "Jakarta Raya",
+  "country": "ID",
+  "loc": "-6.1744,106.8290",
+  "postal": "13550",
+  "org": "AS63859 PT. Eka Mas Republik"
+}
+
+{
+  "ip": "180.245.154.225",
+  "city": "Bandung",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.9217,107.6070",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "114.4.212.14",
+  "hostname": "114-4-212-14.resources.indosat.com",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS4761 INDOSAT Internet Network Provider"
+}
+
+{
+  "ip": "110.138.202.243",
+  "hostname": "243.subnet110-138-202.speedy.telkom.net.id",
+  "city": "Bedok",
+  "region": "Jawa Timur",
+  "country": "ID",
+  "loc": "-7.6212,112.2670",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "114.124.165.243",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "120.188.78.174",
+  "hostname": "120-188-78-174.resources.indosat.com",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS4761 INDOSAT Internet Network Provider"
+}
+
+{
+  "ip": "202.80.213.184",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS17670 PT. MNC Kabel Mediacom"
+}
+
+{
+  "ip": "114.124.137.35",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "114.125.20.16",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "182.0.235.7",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "114.125.191.162",
+  "city": "Makassar",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-5.1520,119.4370",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "120.188.94.160",
+  "hostname": "120-188-94-160.resources.indosat.com",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS4761 INDOSAT Internet Network Provider"
+}
+
+{
+  "ip": "114.125.248.180",
+  "city": "Palembang",
+  "region": "South Sumatra",
+  "country": "ID",
+  "loc": "-2.9764,104.7500",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "116.206.35.20",
+  "hostname": "subs39-116-206-35-20.three.co.id",
+  "city": "Jakarta",
+  "region": "Jakarta Raya",
+  "country": "ID",
+  "loc": "-6.1744,106.8290",
+  "postal": "12930",
+  "org": "AS45727 Hutchison CP Telecommunications, PT"
+}
+
+{
+  "ip": "114.125.219.62",
+  "city": "Makassar",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-5.1520,119.4370",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "182.1.61.197",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "180.254.183.144",
+  "city": "Makasar",
+  "region": "Sulawesi Selatan",
+  "country": "ID",
+  "loc": "-5.1400,119.4220",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "140.213.45.8",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "115.178.219.235",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS18004 PT WIRELESS INDONESIA ( WIN )"
+}
+
+{
+  "ip": "114.5.212.104",
+  "hostname": "114-5-212-104.resources.indosat.com",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS4761 INDOSAT Internet Network Provider"
+}
+
+{
+  "ip": "182.0.245.51",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "182.1.64.157",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "116.206.14.37",
+  "hostname": "subs30-116-206-14-37.three.co.id",
+  "city": "Bandung",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.9217,107.6070",
+  "org": "AS45727 Hutchison CP Telecommunications, PT"
+}
+
+{
+  "ip": "36.75.67.197",
+  "city": "Sampit",
+  "region": "Central Kalimantan",
+  "country": "ID",
+  "loc": "-2.5315,112.9500",
+  "org": "AS17974 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "180.245.136.70",
+  "city": "Bandung",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.9217,107.6070",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "114.4.212.75",
+  "hostname": "114-4-212-75.resources.indosat.com",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS4761 INDOSAT Internet Network Provider"
+}
+
+{
+  "ip": "114.125.197.232",
+  "city": "Makassar",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-5.1520,119.4370",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "114.125.172.129",
+  "city": "Makassar",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-5.1520,119.4370",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "114.125.61.34",
+  "city": "Bandar Lampung",
+  "region": "Lampung",
+  "country": "ID",
+  "loc": "-5.4292,105.2610",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "125.165.20.20",
+  "city": "Baringin",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "1.0778,99.4128",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "116.206.8.8",
+  "hostname": "subs24-116-206-8-8.three.co.id",
+  "city": "Bogor",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.5944,106.7890",
+  "org": "AS45727 Hutchison CP Telecommunications, PT"
+}
+
+{
+  "ip": "182.1.208.131",
+  "city": "Balikpapan",
+  "region": "East Kalimantan",
+  "country": "ID",
+  "loc": "-1.2551,116.8430",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "182.0.176.137",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "112.215.208.29",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "36.75.66.46",
+  "city": "Sampit",
+  "region": "Central Kalimantan",
+  "country": "ID",
+  "loc": "-2.5315,112.9500",
+  "org": "AS17974 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "180.249.18.185",
+  "city": "Palu",
+  "region": "Sulawesi Tengah",
+  "country": "ID",
+  "loc": "-0.8917,119.8710",
+  "postal": "94111",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "140.213.14.232",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "112.215.173.96",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "140.213.37.154",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "115.178.254.100",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2484,112.7420",
+  "org": "AS18004 PT WIRELESS INDONESIA ( WIN )"
+}
+
+{
+  "ip": "182.0.148.230",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "182.0.212.202",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "115.178.239.31",
+  "city": "Semarang",
+  "region": "Central Java",
+  "country": "ID",
+  "loc": "-6.9932,110.4220",
+  "org": "AS18004 PT WIRELESS INDONESIA ( WIN )"
+}
+
+{
+  "ip": "140.213.42.127",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "202.80.215.195",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS17670 PT. MNC Kabel Mediacom"
+}
+
+{
+  "ip": "182.1.180.68",
+  "city": "Makassar",
+  "region": "South Sulawesi",
+  "country": "ID",
+  "loc": "-5.1520,119.4370",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "115.178.212.29",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS18004 PT WIRELESS INDONESIA ( WIN )"
+}
+
+{
+  "ip": "112.215.229.221",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "114.125.5.157",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "112.215.151.141",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "36.68.143.102",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS17974 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "125.167.44.227",
+  "city": "Mojokerto",
+  "region": "Jawa Timur",
+  "country": "ID",
+  "loc": "-7.4664,112.4340",
+  "postal": "61385",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
