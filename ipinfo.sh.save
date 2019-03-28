@@ -1,6 +1,8 @@
 #!/bin/bash
 
 jumlah=$(cat listtest.txt |wc -l)
+sum 0
+num = 1
 
 echo""
 printf "Jumlah Banyak IP : "
@@ -10,12 +12,11 @@ echo ""
 echo""
 sleep 5s
 while read ip; do
+ echo "$sum + $num = $((sum+num))";   
+    ((sum += num))
 curl -s ipinfo.io/${ip}?token=519f29f255e257
 echo ""
 echo ""
 done  < listtest.txt
-echo ""
-echo ""
-echo "------------------------------------------DONE------------------------------------"
-echo ""
+echo "DONE"
 exit 0

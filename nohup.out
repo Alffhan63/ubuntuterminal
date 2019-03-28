@@ -1,0 +1,57 @@
+{
+  "ip": "115.178.212.29",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS18004 PT WIRELESS INDONESIA ( WIN )"
+}
+
+{
+  "ip": "112.215.229.221",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "114.125.5.157",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS23693 PT. Telekomunikasi Selular"
+}
+
+{
+  "ip": "112.215.151.141",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1741,106.8300",
+  "org": "AS24203 PT Excelcomindo Pratama (Network Access Provider)"
+}
+
+{
+  "ip": "36.68.143.102",
+  "city": "Medan",
+  "region": "North Sumatra",
+  "country": "ID",
+  "loc": "3.5847,98.6629",
+  "org": "AS17974 PT Telekomunikasi Indonesia"
+}
+
+{
+  "ip": "125.167.44.227",
+  "city": "Mojokerto",
+  "region": "Jawa Timur",
+  "country": "ID",
+  "loc": "-7.4664,112.4340",
+  "postal": "61385",
+  "org": "AS7713 PT Telekomunikasi Indonesia"
+}
+
+DONE
+./ipinfo.sh: line 16: syntax error: unexpected end of file
